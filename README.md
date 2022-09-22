@@ -1,3 +1,3 @@
 # CS0117001 
-##Abdi Abdirizak Omar
+## Abdi Abdirizak Omar
 Mobile Application Devolpment Assignment Two
